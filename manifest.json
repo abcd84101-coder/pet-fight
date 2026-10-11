@@ -1,0 +1,2 @@
+{"name":"寵物格鬥","short_name":"寵物格鬥","lang":"zh-TW","start_url":"./index.html","scope":"./","display":"fullscreen","display_override":["fullscreen","standalone"],"orientation":"any","background_color":"#f4f1e8","theme_color":"#e8542f",
+"icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
